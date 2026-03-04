@@ -24,11 +24,6 @@ module.exports = {
       package: "com.wzywiki.wangziyuapp",
       versionCode: 1,
     },
-    web: {
-      bundler: "metro",
-      output: "static",
-      favicon: "./assets/favicon.png",
-    },
     experiments: {
       typedRoutes: true,
     },
