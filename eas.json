@@ -14,7 +14,7 @@
         "buildType": "apk",
         "image": "latest"
       },
-      "node": "20.18.3"
+      "node": "22.13.0"
     },
     "production": {
       "android": {
