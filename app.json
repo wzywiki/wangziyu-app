@@ -1,5 +1,10 @@
 {
   "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "0865859a-7288-4e82-b95d-3fca2784641f"
+      }
+    },
     "name": "王梓钰Wiki",
     "slug": "wangziyu-app",
     "version": "1.0.0",
