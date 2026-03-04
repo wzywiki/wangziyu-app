@@ -29,8 +29,7 @@
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
-      "expo-router",
-      "expo-image"
+      "expo-router"
     ],
     "experiments": {
       "typedRoutes": true
@@ -38,3 +37,4 @@
     "scheme": "wangziyuapp"
   }
 }
+
