@@ -2,6 +2,7 @@
 // 对接服务器 API: http://170.106.143.188/api
 
 const BASE_URL = 'http://170.106.143.188/api';
+export const API_BASE = BASE_URL;
 
 export const API = {
   BASE: BASE_URL,
