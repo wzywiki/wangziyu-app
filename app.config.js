@@ -29,7 +29,6 @@ module.exports = {
       output: "static",
       favicon: "./assets/favicon.png",
     },
-    plugins: ["expo-router"],
     experiments: {
       typedRoutes: true,
     },
